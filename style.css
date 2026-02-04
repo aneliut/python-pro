@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Información útil</title>
+    </head>
+    <body>
+        <h1>Dependencia de las redes sociales</h1>
+        <p>Las redes sociales reducen el tiempo que pasamos en el mundo real. También condicionan nuestra mente a constantes actualizaciones de noticias y publicaciones, lo que a la larga puede resultar estresante.</p>
+        <img src="https://media3.giphy.com/media/26BGGxgsEh42ABHFe/giphy.gif?cid=ecf05e47fewnmm2h6vijgpd1768vz8zxo441mpec89684gtw&rid=giphy.gif&ct=g" alt="Image 1">
+  <h2>¿Cómo podemos resistirnos?</h2>
+  <ul>
+   <li>Podemos poner límites al tiempo que pasamos en línea o en nuestros dispositivos.</li>
+   <li>Podemos programar un tiempo libre de tecnología para relajarnos y desconectar.</li>
+  </ul>
+    </body>
+</html>
+body {
+    font-family: Arial, Verdana,  sans-serif; /* Familia de fuentes */
+    font-size: 11pt; /* El tamaño de la fuente principal en el tag <p></p>  */
+    background-color: #f0f0f0; /* El color del fondo de la página web */
+    color: #333; /* El color del texto */ 
+}
+h1 {
+    color: #00a800; /* El color de la cabecera */
+    font-size: 24pt; /* El tamaño de la fuente de la cabecera/
+    font-family: Georgia, Times, serif; /* La familia tipográfica utilizada en la cabecera */
+}
